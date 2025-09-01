@@ -21,7 +21,6 @@ src: ./5-slides-content/slides/003-product.md
 
 ---
 layout: closing
-backgroundImage: 'https://jphbhfjceftswsnahwgc.supabase.co/storage/v1/object/public/presentation-assets/TeineMainBackground01.jpg'
 contactInfo:
   name: 'Adolfo Salas'
   email: 'adolfo.salas@hatch.com'
