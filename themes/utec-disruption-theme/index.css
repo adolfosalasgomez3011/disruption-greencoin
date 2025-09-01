@@ -1,0 +1,15 @@
+/* Minimal theme CSS for utec-disruption-theme */
+:root {
+  --ud-bg: #0b0f2b;
+  --ud-accent: #ff3366;
+}
+
+.slidev-theme-utec-disruption {
+  background: var(--ud-bg);
+  color: white;
+}
+
+.cover-slide {
+  background-size: cover;
+  background-position: center;
+}

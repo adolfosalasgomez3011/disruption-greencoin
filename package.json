@@ -18,6 +18,6 @@
     "typescript": "^5.0.0"
   },
   "slidev": {
-    "theme": "utec-disruption-theme"
+  "theme": "./themes/utec-disruption-theme"
   }
 }
