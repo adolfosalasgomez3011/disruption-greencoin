@@ -3,11 +3,9 @@ layout: default
 ---
 
 <script setup>
-import { ref, onMounted } from 'vue'
-const revealText = ref(false)
-onMounted(() => {
-	setTimeout(() => { revealText.value = true }, 800)
-})
+import { ref } from 'vue'
+// Show text immediately so this slide doesn't look like a second cover
+const revealText = ref(true)
 </script>
 
 <h1 class="text-4xl font-800 leading-tight" style="font-size:2.25rem; font-weight:800; line-height:1.2; margin: 0 0 0.5rem 0;">

@@ -21,6 +21,7 @@ const bgStyle = { backgroundImage: `url('${bodyUrl}')` }
 
 .utec-default {
   position: relative;
+  z-index: 0;
   width: 100%;
   height: 100%;
   background-size: cover;
@@ -29,18 +30,12 @@ const bgStyle = { backgroundImage: `url('${bodyUrl}')` }
   color: #0a0a0a;
 }
 
-/* Subtle overlay so content slides look distinct vs. the cover */
-.utec-default::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.22);
-  pointer-events: none;
-}
+/* Overlay removed per request to avoid darkening the slide background */
 
 /* Safe content area: avoid decorations at the sides */
 .utec-safe {
   position: relative;
+  z-index: 1; /* ensure content is above overlay */
   box-sizing: border-box;
   width: calc(100% - var(--utec-safe-left) - var(--utec-safe-right));
   height: 100%;
