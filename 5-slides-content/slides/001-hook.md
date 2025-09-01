@@ -6,7 +6,7 @@ layout: default
 import { ref, onMounted } from 'vue'
 const revealText = ref(false)
 onMounted(() => {
-	setTimeout(() => { revealText.value = true }, 5000)
+	setTimeout(() => { revealText.value = true }, 800)
 })
 </script>
 

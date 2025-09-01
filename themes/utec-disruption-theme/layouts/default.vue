@@ -20,12 +20,22 @@ const bgStyle = { backgroundImage: `url('${bodyUrl}')` }
 }
 
 .utec-default {
+  position: relative;
   width: 100%;
   height: 100%;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   color: #0a0a0a;
+}
+
+/* Subtle overlay so content slides look distinct vs. the cover */
+.utec-default::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.22);
+  pointer-events: none;
 }
 
 /* Safe content area: avoid decorations at the sides */
