@@ -6,7 +6,9 @@
 
 <script setup lang="ts">
 const props = defineProps<{ backgroundImage?: string }>()
-const bg = props.backgroundImage || "../assets/cover.png"
+// Resolve asset through Vite so it works in dev & production builds
+const coverUrl = new URL('../assets/cover.png', import.meta.url).href
+const bg = props.backgroundImage || coverUrl
 const bgStyle = { backgroundImage: `url('${bg}')` }
 </script>
 

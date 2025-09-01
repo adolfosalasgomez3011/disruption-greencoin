@@ -17,7 +17,8 @@
 .utec-default {
   width: 100%;
   height: 100%;
-  background-image: url('../assets/body.png');
+  /* Resolved via Vite below to ensure correct asset path */
+  background-image: var(--utec-body-bg-url);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -58,3 +59,12 @@
   }
 }
 </style>
+
+<script>
+// Inject a CSS variable with the resolved URL so styles can reference it
+const bodyUrl = new URL('../assets/body.png', import.meta.url).href
+const style = document.createElement('style')
+style.innerHTML = `:root { --utec-body-bg-url: url('${bodyUrl}'); }`
+document.head.appendChild(style)
+export default {}
+</script>

@@ -1,6 +1,8 @@
+// Allow Node env access in TS without adding @types/node
+declare const process: any
 import { defineConfig } from 'slidev'
 
 export default defineConfig({
-  // Ensure the custom theme is used in all environments (local + Vercel)
-  theme: './themes/utec-disruption-theme',
+  // Use env override for local absolute theme if provided; otherwise fallback to bundled theme for deploy
+  theme: process.env.SLIDEV_THEME || './themes/utec-disruption-theme',
 })
