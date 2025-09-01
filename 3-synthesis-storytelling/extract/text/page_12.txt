@@ -1,0 +1,27 @@
+ 
+ 
+ 
+La estructura propuesta del código del proyecto GreenCoin combinaría dos partes: 
+1.​ El contrato inteligente (GreenCoin.sol):​
+ Es el "cerebro" del sistema. Aquí se define cómo se crean los tokens, qué 
+información genética lleva cada uno y quién los puede emitir. Está dentro de la 
+carpeta contracts.​
+ 
+2.​ La interfaz web o “Green Wallet” (greencoin-frontend):​
+ Es la página que los usuarios usan para ver, emitir o transferir tokens. Aquí se 
+conecta la web con el contrato inteligente. Todo lo visual y lo que el usuario toca se 
+programa en esta parte.​
+ 
+El resto de carpetas (scripts, artifacts, etc.) son para pruebas, configuraciones y 
+control interno. Todo el sistema funciona en conjunto: el contrato de la lógica y la wallet 
+permite usarla fácilmente. 
+3. Valor agregado y propuesta innovadora: 
+A través del uso de tecnología blockchain, los estudiantes pueden interactuar, 
+conservar y generar valor a partir de la riqueza natural nacional. La posesión de un 
+GreenCoin no es solo un acto económico, sino una expresión cultural y ecológica: una 
+forma tangible y participativa de involucrarse con el patrimonio vivo del Perú. 
+GreenCoin propone una nueva narrativa para las juventudes universitarias: un activo 
+digital con respaldo real, impacto cultural, transparencia tecnológica y sentido 
+identitario. 
+ Segmento de Cliente(Estudiante UTEC) 
+12 

@@ -1,0 +1,31 @@
+Este ejercicio revela algo esencial. El valor depende del contexto, y la vida, aunque 
+parezca común a nuestro alrededor, es en realidad uno de los elementos más escasos y 
+valiosos que conocemos a escala universal. 
+Perú, según las Naciones Unidas y múltiples organismos científicos, es uno de los 
+países con mayor patrimonio natural en cuanto diversidad del mundo. Es reconocido 
+como uno de los 17 países megadiversos del planeta, albergando más de 25,000 
+especies de flora y fauna, muchas de ellas endémicas, es decir, que no existen en 
+ninguna otra parte del mundo. Este patrimonio natural ha sido fuente de 
+conocimiento ancestral, alimentación, medicina y cultura. Sin embargo, su valor 
+informático, su código genético, único e irrepetible, ha sido poco explorado como base 
+para la creación de valor digital. 
+Desde que la ciencia descubrió que la vida es información codificada en ADN, se han 
+desarrollado tecnologías para leer, digitalizar y proteger estos datos. Hoy en día, es 
+posible secuenciar con facilidad el genoma de una especie y convertirlo en un hash 
+digital único, tan irrepetible como una huella dactilar. Este hash puede utilizarse para 
+verificar la autenticidad genética de una especie o como respaldo de un token o activo 
+digital. El proceso de recolección, secuenciación y validación representa un esfuerzo 
+científico y económico verificable, lo cual le otorga un valor intrínseco medible. 
+ 
+En paralelo, la evolución de la tecnología blockchain ha transformado la forma en que 
+concebimos el valor. Desde el surgimiento de Bitcoin, se ha demostrado que es posible 
+crear activos digitales seguros, trazables, descentralizados y resistentes a la 
+falsificación. Su potencial ha trascendido el uso monetario. Hoy existen tokens no 
+fungibles, monedas sociales y sistemas de gobernanza descentralizada, basados en la 
+confianza criptográfica y sin necesidad de intermediarios. 
+Estas tecnologías permiten representar digitalmente objetos únicos, derechos, 
+certificados o identidades, con respaldo verificable. En este contexto, la convergencia 
+entre patrimonio natural, ciencia genómica y tecnología blockchain abre un camino 
+inexplorado para transformar la información biológica en unidades de valor digital, 
+trazables y gestionables de forma ética y sostenible. 
+2 

@@ -1,0 +1,34 @@
+ 
+ 
+1)​ imagen de flujo de trabajo de BioOracle(A) 
+ 
+BioOracle recibe muestras biológicas provenientes de zoológicos y centros de 
+conservación 
+(Z). 
+Estas 
+muestras son digitalizadas utilizando técnicas de 
+secuenciación genética para  generar datos de ADN crudo. Para su procesamiento 
+BioOracle 
+puede 
+apoyarse 
+inicialmente 
+en 
+empresas 
+especializadas 
+en 
+bioinformática, como Gen Lab Perú S.A.C., que se encargan de procesar estos datos 
+después usados para la creación del Hash. Esto eliminaría la parte de digitalización 
+genética de la propuesta técnica. 
+BioOracle opera como entidad certificadora dentro del ecosistema GreenCoin. Ofrece 
+servicios de verificación genética(métodos muy conocidos y fáciles de replicar), 
+esenciales para garantizar que cada token tiene una correspondencia real y única con 
+su muestra biológica original. Esta función no solo es clave para asegurar la 
+autenticidad de los tokens, sino que representa también el principal mecanismo de 
+sostenibilidad económica del sistema. 
+Es decir, cada vez que una GreenCoin se autentica, transfiere o verifica, BioOracle 
+recibe una fracción del valor en circulación, funcionando como fuente de ingresos 
+directa. A medida que las GreenCoins ganan uso, valor y reconocimiento, la frecuencia 
+de estas verificaciones crece, lo que mantiene financieramente viable al proyecto 
+GreenCoin. 
+ 
+5 

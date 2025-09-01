@@ -1,0 +1,61 @@
+Emisión 
+controlada 
+Más allá de la validación que realiza Bio Oracle, la emisión de 
+tokens está intrínsecamente vinculada al tamaño real de las 
+poblaciones del patrimonio natural. Esto significa que la 
+cantidad de Green Coins posibles no solo depende de aspectos 
+técnicos, sino que está naturalmente limitada por la existencia 
+misma de los individuos. 
+Frecuencia de 
+emisión 
+Variable, en función de la recolección, secuenciación y 
+verificación de nuevas muestras biológicas, pero esto se podría 
+ajustar en un periodo de maduración. 
+Autenticidad 
+verificable 
+Cada token puede ser autenticado posteriormente mediante 
+comparación genética directa con la muestra original. Esto es 
+posible porque al momento de la emisión, la secuencia de ADN 
+fue convertida en un hash digital utilizando un algoritmo 
+criptográfico 
+estándar 
+(SHA-256). 
+Para 
+verificar 
+la 
+autenticidad, basta con tomar la muestra genética del mismo 
+individuo, aplicar el mismo algoritmo sobre la secuencia 
+definida y comparar el resultado con el hash almacenado en la 
+blockchain. Si ambos coinciden, se confirma que el token 
+representa esa identidad. 
+Ajuste por 
+diversidad 
+ El total de monedas posibles está limitado por un catálogo 
+visible por el público. 
+ 
+ 
+c. Seguridad y confianza: 
+ 
+Mecanismo: 
+Función en Green Coin: 
+Auditoría pública 
+La blockchain registra todos los movimientos y emisiones; 
+cualquier actor puede revisar la trazabilidad. 
+ 
+Criptografía 
+(SHA-256) 
+Esto 
+se 
+logra 
+aplicando 
+un 
+algoritmo 
+criptográfico(SHA-256) sobre una secuencia genética 
+digitalizada (por ejemplo, ATCGGTA...). El algoritmo 
+transforma esa cadena en una cadena alfanumérica de 
+longitud fija (un hash). Cualquier cambio mínimo en la 
+secuencia (una sola base diferente) produce un hash 
+completamente distinto. Esta conversión es irreversible, lo 
+que significa que no se puede obtener la secuencia original 
+a partir del hash. Una vez registrado en la blockchain, este 
+10 

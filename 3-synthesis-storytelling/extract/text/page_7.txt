@@ -1,0 +1,88 @@
+puedan ser modificados sin que toda la red 
+lo detecte. 
+Cada nodo (computadora conectada a la red) 
+guarda una copia exacta de toda la cadena 
+de bloques. La red se asegura de que todas 
+las copias coincidan, lo que permite verificar 
+la integridad de la información almacenada. 
+ 
+ 
+Nodos 
+validadores  
+ 
+Computadoras 
+autorizadas 
+que 
+almacenan y validan 
+el historial completo 
+de la red. 
+En 
+un 
+sistema 
+basado 
+en 
+tecnología 
+blockchain, como el de Green Coin, los 
+nodos validadores son computadoras o 
+servidores confiables que se encargan de 
+comparar la información de las GreenCoins 
+con otros nodos para verificar que no se 
+modificó nada. Mientras más nodos existan 
+la red se vuelve más confiable . 
+ 
+Oráculo 
+Biológico 
+Módulo externo que 
+conecta 
+el 
+mundo 
+real (ADN) con la red 
+blockchain.  
+Es el puente entre la biología y la cadena de 
+bloques. Digitaliza los datos y genera el 
+hash 
+genético 
+que 
+respalda 
+el token. 
+También 
+ofrece 
+servicios 
+para 
+evitar  
+fraudes. Funciona como fuente confiable 
+para 
+contratos 
+inteligentes, 
+almacena 
+muestras biológicas. Además, es el principal 
+nodo en la blockchain. 
+Contrato 
+inteligente 
+Programas 
+automatizados 
+que 
+ejecutan condiciones 
+sin 
+intervención 
+humana directa. 
+Gestionan la emisión de tokens, validan que 
+los datos del oráculo estén completos y 
+permiten verificar la trazabilidad y unicidad 
+del 
+respaldo 
+biológico. 
+Este 
+contrato 
+inteligente actúa como un protocolo base 
+único: no es necesario crear uno nuevo para 
+cada token, ya que el sistema está diseñado 
+para administrar múltiples tokens bajo una 
+misma lógica de gobernanza y verificación. 
+Todas las emisiones se realizan desde una 
+sola 
+fuente 
+centralizada 
+(el 
+contrato), 
+7 

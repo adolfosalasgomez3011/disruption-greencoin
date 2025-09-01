@@ -1,0 +1,63 @@
+administrado por una entidad emisora (el 
+owner).  
+ 
+ 
+Green 
+Wallets 
+ 
+Interfaces 
+para 
+enviar, 
+recibir 
+y 
+almacenar 
+Green 
+Coins. 
+Plataformas digitales para que los usuarios 
+gestionen sus monedas. Una wallet o 
+billetera digital es una herramienta que 
+permite a cada usuario almacenar, recibir, 
+transferir y consultar sus tokens. Estas 
+plataformas 
+actúan 
+como 
+interfaces 
+personales 
+para 
+interactuar 
+con 
+la 
+blockchain sin necesidad de intermediarios. 
+Las wallets permitirían a los usuarios 
+custodiar sus monedas genéticas, verificar 
+los metadatos vinculados a cada token 
+(especie, hash genético, fecha de emisión), 
+actualizado por cada iteración. 
+ 
+ 
+Repositorio 
+Genético 
+Almacén 
+de 
+información genética  
+original digitalizadas 
+y encriptadas. 
+Sistema 
+independiente, 
+protegido 
+y 
+auditable donde se guarda la información 
+genética completa. No está en la blockchain, 
+pero es accesible solo por Biooracle para 
+fines de verificación. Garantiza soberanía 
+genética 
+y 
+protección 
+frente 
+a 
+la 
+falsificación. 
+ 
+Visualización de la implementación técnica: 
+ 
+8 

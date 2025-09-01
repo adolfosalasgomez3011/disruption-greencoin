@@ -1,0 +1,49 @@
+Proponemos los siguientes actores clave en el Perú para el acceso al  material genético 
+necesario para respaldar las GreenCoins: 
+●​ Servicio Nacional Forestal y de Fauna Silvestre (SERFOR): como entidad 
+encargada de la gestión de la biodiversidad en el Perú, puede facilitar la 
+validación y control legal del acceso a especies protegidas y en peligro.​
+ 
+●​ Parques Zoológicos como el Parque de Las Leyendas, el Zoológico de Huachipa 
+y el Zoo Amazon Rescue Center (Iquitos): albergan especies amenazadas y 
+cuentan con experiencia en manejo de ejemplares vivos y protocolos de 
+muestreo.​
+ 
+Al asociar cada token a un individuo biológico único, GreenCoin promueve una nueva 
+forma de valorar el patrimonio natural: lo vuelve visible, lo encapsula digitalmente, y 
+le otorga un valor creciente en función de su escasez, valoración estudiantil y 
+relevancia patrimonial. Esta lógica crea un círculo virtuoso: mientras mayor sea la 
+diversidad y conservación del patrimonio natural, mayor será la capacidad de emisión 
+de tokens y, por ende, mayor será el potencial cultural y económico del sistema. 
+Además, el sistema está naturalmente limitado tanto por factores biológicos (no se 
+pueden emitir más tokens de los que existan individuos reales) como por los límites 
+técnicos de la blockchain. Esto garantiza que la emisión de GreenCoins sea 
+controlada. 
+ 
+ 
+2. Diseño técnico de la propuesta: 
+a. Infraestructura básica: 
+ 
+Componente: 
+Función principal: 
+Descripción contextualizada: 
+Blockchain  
+Registro 
+público, 
+descentralizado 
+e 
+inmutable de todas 
+las transacciones. 
+ 
+ 
+Una 
+blockchain 
+es una tecnología de 
+almacenamiento de datos basada en bloques 
+interconectados. Cada bloque contiene un 
+historial de transacciones o información y 
+está vinculado criptográficamente al bloque 
+anterior mediante un código único llamado 
+Hash, formando así una cadena inmutable. 
+Esta estructura garantiza que los datos no 
+6 

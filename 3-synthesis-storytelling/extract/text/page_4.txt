@@ -1,0 +1,27 @@
+Esta desconexión acentúa la percepción de que el valor digital está divorciado del 
+valor real, dificultando así su integración significativa en narrativas colectivas. 
+ 
+- Descripción y diseño de la propuesta: 
+1. Descripción general  
+Green Coin es una propuesta de moneda digital respaldada por secuencias genéticas 
+únicas de especies biológicas, con énfasis en aquellas que son patrimonio natural del 
+Perú. A diferencia de las criptomonedas convencionales que requieren procesos de 
+minería computacional intensiva, Green Coin se basa en un modelo de emisión 
+controlada por validación científica, utilizando tecnología blockchain con consenso 
+tipo Proof of Authority (PoA). 
+Cada unidad monetaria (token) representa una huella genética irrepetible, registrada 
+digitalmente tras un proceso de recolección, secuenciación, validación y codificación. 
+La secuencia de ADN obtenida de un espécimen es transformada en una cadena de 
+datos estandarizada, la cual se procesa mediante algoritmos criptográficos para 
+generar un hash genético único, que actúa como respaldo verificable del token. Este 
+hash, una huella digital inmutable, se integra a contratos inteligentes dentro de la red 
+blockchain PoA, garantizando que cada moneda esté científicamente validada y 
+asociada a un individuo biológico real. De esta forma, se asegura la autenticidad, 
+unicidad y protección frente a intentos de falsificación. 
+La emisión está a cargo de una entidad denominada BioOracle, que cumple un rol 
+clave en garantizar la seguridad del sistema. Este oráculo genera el hash encriptado de 
+cada secuencia y digitaliza la información para integrarla de manera segura a la red 
+blockchain. Importante además, conserva registros auditables que permiten verificar 
+en cualquier momento que cada token corresponde a un individuo biológico 
+real(Patrimonio Peruano), evitando falsificaciones. 
+4 

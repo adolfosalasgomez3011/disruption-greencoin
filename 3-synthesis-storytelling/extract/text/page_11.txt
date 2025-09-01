@@ -1,0 +1,54 @@
+hash permite verificar la autenticidad genética del token 
+mediante auditoría pública y verificación futura con 
+BioOracle. 
+ 
+ 
+Firmas digitales 
+(ECDSA) 
+ 
+Garantizan que solo BioOracle pueda emitir o validar 
+tokens. En el caso, se utiliza el sistema criptográfico 
+ECDSA (Elliptic Curve Digital Signature Algorithm) para 
+firmar digitalmente cada token emitido. Esta firma se 
+genera usando una clave privada exclusiva de BioOracle, y 
+puede ser verificada públicamente mediante su clave 
+pública. Esto asegura dos cosas fundamentales: 
+1.​ Que el token fue efectivamente emitido por 
+Biooracle​
+ 
+2.​ Que 
+su 
+contenido 
+(hash 
+genético, 
+especie, 
+metadatos) no ha sido alterado desde su emisión.​
+ Así, cualquier usuario de la red o institución 
+auditora puede verificar la legitimidad de un token 
+sin necesidad de intermediarios. 
+ 
+Validación por 
+Autoridad (PoA) 
+En el modelo Proof of Authority (PoA), solo los nodos 
+autorizados(instituciones 
+como 
+BioOracle) 
+pueden 
+participar en la red para almacenar una copia de la cadena 
+de bloques. En sus etapas iniciales, el ecosistema 
+GreenCoin funcionará con un único nodo validador 
+(BioOracle), lo que permite el control y trazabilidad directa 
+de las emisiones. Sin embargo, para garantizar la 
+seguridad, descentralización progresiva y robustez del 
+sistema, será necesario incorporar nuevos nodos a 
+mediano 
+plazo. 
+Esto se logrará mediante alianzas 
+estratégicas con instituciones confiables del ámbito, que 
+puedan asumir funciones de validación dentro del marco 
+del sistema. 
+ 
+Visualización del código(implementación del diseño técnico): 
+ 
+ 
+11 

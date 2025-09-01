@@ -1,0 +1,23 @@
+{
+  "name": "disruption-greencoin",
+  "version": "1.0.0",
+  "description": "HAIA+ Enhanced Slidev presentation: disruption-greencoin professional presentation",
+  "type": "module",
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.49.0",
+    "@slidev/theme-default": "latest",
+    "slidev-theme-hatch-corporate": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  },
+  "slidev": {
+    "theme": "utec-disruption-theme"
+  }
+}
